@@ -75,9 +75,9 @@ Let's turn ideas into reality, one line of code at a time! 🌐 #CodeCreator #AI
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f23c46b128dce3cb9cb7ae?variant=light)
 
 <br/>
-![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f23c46b128dce3cb9cb7ae?variant=light)
 <p align="center">
   <a href="https://github.com/KessarAmine">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KessarAmine&theme=radical&border=7F3FBF&background=0D1117" alt="Amine's GitHub streak"/>
