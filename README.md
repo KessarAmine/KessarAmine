@@ -44,7 +44,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
 
-🚀 Computer Scientist | AI Enthusiast  | Cloud Enthusiast | API Designer | System Architect 🤖
+🚀 Computer Scientist | AI Enthusiast | Cloud Enthusiast | API Designer | System Architect 🤖
 
 🎓 5 years of diving deep into the world of computer science, culminating in a specialization in Artificial Intelligence.
 
