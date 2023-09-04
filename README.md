@@ -84,14 +84,7 @@ Let's turn ideas into reality, one line of code at a time! 🌐 #CodeCreator #AI
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KessarAmine">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KessarAmine&theme=radical" alt="Amine's GitHub Contribution"/>
-  </a>
-</p>
-
 <a> 
-    <a href="https://github.com/KessarAmine"><img alt="Amine's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KessarAmine&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/KessarAmine"><img alt="Amine's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KessarAmine&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
