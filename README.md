@@ -77,6 +77,6 @@ Let's turn ideas into reality, one line of code at a time! 🌐 #CodeCreator #AI
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">  
-  <a href="[https://roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64f23c46b128dce3cb9cb7ae?variant=dark)"><img src="https://api.roadmap.sh/v1-badge/wide/64f23c46b128dce3cb9cb7ae?variant=dark" alt="roadmap.sh"/></a>
+  <a href="https://bit.ly/3r0nxaG"><img src="https://api.roadmap.sh/v1-badge/wide/64f23c46b128dce3cb9cb7ae?variant=dark" alt="roadmap.sh"/></a>
   <a href="https://github.com/KessarAmine"><img alt="Amine's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KessarAmine&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
