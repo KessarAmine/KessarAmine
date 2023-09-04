@@ -38,7 +38,7 @@
 <br />
 
 <!-- About Section -->
- # "Meet the Mind Behind the Code" 💻😎
+ # Meet the Mind Behind the Code 💻😎
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
